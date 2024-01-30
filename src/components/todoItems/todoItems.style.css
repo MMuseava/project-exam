@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.todoItems{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px;
+     border-bottom: 1px solid #5E5DF0;
+}
+p{
+    width: 300px;
+    text-align: left;
+    font-size: 2rem;
+}
